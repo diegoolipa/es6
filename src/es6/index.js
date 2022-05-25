@@ -63,5 +63,8 @@ console.log(education);
 console.log(globalVar);
 
 const a = 'b';
-a = 'a';
+// no se puede asinar o cambiar el valor de una cosntante
+//a = 'a';
 console.log(a);
+
+
