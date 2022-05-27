@@ -23,4 +23,4 @@ const buyIceCream = async (money) => {
     }
 }
 
-buyIceCream(400); //1. llamas a la funcion comprar helado e Ingresas el dinero
+buyIceCream(600); //1. llamas a la funcion comprar helado e Ingresas el dinero
